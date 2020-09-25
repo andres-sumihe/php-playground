@@ -15,7 +15,7 @@
         const url = window.location.href
         console.log(url);
         const a = document.querySelector("#text");
-        if(url.match(/\?./)){
+        if(url.includes("?")){
             let nama = value.get('nama');
             let nim = value.get('nim');
             let ipk = value.get('ipk');

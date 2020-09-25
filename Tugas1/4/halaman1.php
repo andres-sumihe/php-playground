@@ -6,7 +6,7 @@
     <title>Nomor 4</title>
 </head>
 <body>
-    <form method="POST" action="halaman2.php">
+    <form method="POST" action="proses.php">
         <label for="username"> Username</label>
         <input type="text" name="username" id="username"> <br><br>
         <label for="password"> Password</label>
