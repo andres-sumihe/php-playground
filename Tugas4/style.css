@@ -1,0 +1,20 @@
+body{font-family: Calibri;}
+td.thdefault {
+    border-bottom: 1px solid white;
+    background-color: #3F72C1;
+    color: white;
+    font-weight: bold;
+}
+
+td.th1 {padding : 1px  61px 1px 2px; }
+td.th2 {padding : 1px  60px 1px 2px; }
+td.th3 {padding : 1px  59px 1px 2px; }
+td.th4 {padding : 1px  60px 1px 2px; }
+table, tr, td{
+    border-collapse: border;
+    font-family: Calibri;
+}
+td.nim {background-color: #CDD7EA; }
+td.odd {background-color: #CDD7EA; }
+td.even {background-color: #E8EBF3; }
+.inputnim {margin: 0 15px 0 15px; }
